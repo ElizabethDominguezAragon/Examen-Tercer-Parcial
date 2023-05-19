@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\bin\Debug\Examen_3_ Leyenda_del_dia.exe.config
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\bin\Debug\Examen_3_ Leyenda_del_dia.exe
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\bin\Debug\Examen_3_ Leyenda_del_dia.pdb
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3__Leyenda_del_dia.LeyendaDia.resources
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3__Leyenda_del_dia.Properties.Resources.resources
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.exe
+C:\Users\karla\source\repos\Examen_3_ Leyenda_del_dia\Examen_3_ Leyenda_del_dia\obj\Debug\Examen_3_ Leyenda_del_dia.pdb

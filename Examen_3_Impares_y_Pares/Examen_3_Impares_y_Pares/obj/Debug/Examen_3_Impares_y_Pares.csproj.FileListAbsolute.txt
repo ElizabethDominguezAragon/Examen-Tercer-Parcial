@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\bin\Debug\Examen_3_Impares_y_Pares.exe.config
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\bin\Debug\Examen_3_Impares_y_Pares.exe
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\bin\Debug\Examen_3_Impares_y_Pares.pdb
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.ImparesPares.resources
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.Properties.Resources.resources
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.exe
+C:\Users\karla\source\repos\Examen_3_Impares_y_Pares\Examen_3_Impares_y_Pares\obj\Debug\Examen_3_Impares_y_Pares.pdb
